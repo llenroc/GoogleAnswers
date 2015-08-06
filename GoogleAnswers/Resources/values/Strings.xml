@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">GoogleAnswers</string>
+  <string name="SearchHint">Ask me !!!</string>
+  <string name="Search">Search</string>
+  <string name="IsEmpty">Please Enter Something.</string>
+  <string name="PleaseWait">Please Wait ...</string>
+  <string name="FetchingResult">Fetching Result</string>
+  <string name="CannotConnect">Connect fetch result. Please check your connection.</string>
+  <string name="CannotFetch">Cannot fetch any results for your query.</string>
+</resources>

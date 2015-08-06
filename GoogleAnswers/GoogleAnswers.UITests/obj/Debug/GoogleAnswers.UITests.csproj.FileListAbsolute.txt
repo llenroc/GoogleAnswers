@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Projects\GoogleAnswers\GoogleAnswers.UITests\bin\Debug\GoogleAnswers.UITests.dll
+C:\Users\admin\Documents\Projects\GoogleAnswers\GoogleAnswers.UITests\bin\Debug\GoogleAnswers.UITests.pdb
+C:\Users\admin\Documents\Projects\GoogleAnswers\GoogleAnswers.UITests\bin\Debug\nunit.framework.dll
+C:\Users\admin\Documents\Projects\GoogleAnswers\GoogleAnswers.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\admin\Documents\Projects\GoogleAnswers\GoogleAnswers.UITests\bin\Debug\nunit.framework.xml
+C:\Users\admin\Documents\Projects\GoogleAnswers\GoogleAnswers.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\admin\Documents\Projects\GoogleAnswers\GoogleAnswers.UITests\obj\Debug\GoogleAnswers.UITests.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Projects\GoogleAnswers\GoogleAnswers.UITests\obj\Debug\GoogleAnswers.UITests.dll
+C:\Users\admin\Documents\Projects\GoogleAnswers\GoogleAnswers.UITests\obj\Debug\GoogleAnswers.UITests.pdb
