@@ -43,7 +43,7 @@ namespace GoogleAnswers.Utils
         private const string UriFormat = "https://www.googleapis.com/customsearch/v1?key={0}&cx=017576662512468239146:omuauf_lfve&q={1}&num=1";
 
         //Token for Google Search Api
-        private const string GoogleToken = "AIzaSyAQrEUd1RaBj0ArQm0D8_hapqD3x545agY";
+        private const string GoogleToken = "[Enter your secret key]";
 
         #endregion
 
